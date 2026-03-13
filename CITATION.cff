@@ -1,0 +1,22 @@
+title: "Motivic Realizations via Regulator-Filtration Persistence"
+message: "If you use this workspace, cite the manuscript and theorem notes."
+type: software
+authors:
+  - name: "HautevilleHouse"
+date-released: 2026-03-05
+repository-code: "https://github.com/HautevilleHouse/motivic-realizations-canonical-lane"
+url: "https://github.com/HautevilleHouse/motivic-realizations-canonical-lane"
+license: None
+keywords:
+  - motives
+  - arithmetic-geometry
+  - regulators
+  - filtrations
+  - local-to-global
+  - reproducibility
+preferred-citation:
+  type: article
+  title: "Motivic Realizations via Regulator-Filtration Persistence"
+  authors:
+    - name: "HautevilleHouse"
+  date: 2026-03-05
