@@ -1,9 +1,5 @@
 {
-  "schema_version": "2026-03-05",
-  "generated_utc": "2026-03-13T05:27:16Z",
-  "lane": "manifold_constrained",
   "baseline_certificate_path": "repro/certificate_baseline.json",
-  "runtime_certificate_path": "repro/certificate_runtime.json",
   "files": [
     {
       "path": "CITATION.cff",
@@ -83,15 +79,15 @@
     },
     {
       "path": "repro/run_repro.sh",
-      "sha256": "afa944d73031a9076d599348a72caf1de7beb498407f91fd037d91741b0362ed"
+      "sha256": "a26e82390cdf7d80ce972cf499fe288ef9930304c4b0fce3688b426ea4029447"
     },
     {
       "path": "scripts/extract_constants.py",
-      "sha256": "61775512903af1abf2a430f74f06797352ca655833bd69fe66b2d89b8c261b6e"
+      "sha256": "730d57dae3fac057e19630db34233183cae269568d43118c943387970081896d"
     },
     {
       "path": "scripts/promote_constants.py",
-      "sha256": "c13fe0f68b0737a319c9feff0e196108b9a49d8acc5ad817f8ae62597c8bc13c"
+      "sha256": "b65eb7a60552c668f04d6331a5256fe4e662ae5e83e769d42f6a141819769356"
     },
     {
       "path": "scripts/release_gate.py",
@@ -99,7 +95,7 @@
     },
     {
       "path": "scripts/update_manifest.py",
-      "sha256": "6cee83954c38d792f86564334a5e93750a9842afe569fb4685a3f47def392352"
+      "sha256": "45ae03f10349daebab98b6eb9a0836b7e2d15a48ca5504277c80ec7d4c633d12"
     },
     {
       "path": "scripts/mrf_closure_guard.py",
@@ -109,5 +105,9 @@
       "path": "scripts/README.md",
       "sha256": "b591f75fe6598fe17470ecacd7d56b83c9d86c775e7bcf4076f9bbb4a3001c7d"
     }
-  ]
+  ],
+  "generated_utc": "2026-05-10T05:21:40Z",
+  "lane": "manifold_constrained",
+  "runtime_certificate_path": "repro/certificate_runtime.json",
+  "schema_version": "2026-03-05"
 }
